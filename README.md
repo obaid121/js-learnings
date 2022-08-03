@@ -1,2 +1,2 @@
-# js-tips-tricks
-All the javascript problems, challenges, new learnings, ideas.
+# JAVASCRIPT LEARNINGS
+Learnings of everyday JS problems, tips-tricks, challenges..
